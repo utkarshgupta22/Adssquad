@@ -272,3 +272,19 @@ justify-content: space-evenly;
         max-width: 80% !important;
     }
 }
+
+/* Web design and development */
+@media(max-width:765px){
+    .webContainer{
+        flex-direction: column;
+    }
+    .webcont2{
+        flex-direction: column-reverse;
+    }
+    .image{
+        width: 50%;
+    }
+    .webText{
+        width: 70%;
+    }
+}

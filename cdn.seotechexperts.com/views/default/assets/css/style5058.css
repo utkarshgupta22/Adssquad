@@ -2707,3 +2707,20 @@ div.single-blog {
   to{width: 25em;}
 }
 
+/* Web Design and Development */
+.webContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .image {
+    width: 40%;
+    margin-right: 20px;
+  }
+  
+  .webText {
+    width: 50%;
+    text-align: justify;
+  }
