@@ -318,3 +318,17 @@ justify-content: space-evenly;
     }
     
 }
+
+@media(max-width:409px){
+    .row1{
+        margin: 0 0 0 35px;
+    }
+    
+}
+
+@media(max-width:394px){
+    .row1{
+        margin: 0 0 0 20px;
+    }
+    
+}
