@@ -332,3 +332,10 @@ justify-content: space-evenly;
     }
     
 }
+
+@media(max-width:466px){
+    .footP {
+        margin-left: 0px !important;
+    }
+    
+}
