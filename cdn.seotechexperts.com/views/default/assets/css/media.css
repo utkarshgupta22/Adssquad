@@ -169,7 +169,7 @@ justify-content: space-evenly;
 
 @media(max-width:1045px){
     .row1{
-        margin-left: 6rem;
+        margin-left: 2rem;
     }
 }
 @media(max-width:992px){
@@ -201,7 +201,7 @@ justify-content: space-evenly;
     line-height: 30px;
     }
     .colu1{
-        margin-left: 20px;
+        margin-left: -35px;
     }
     
 }

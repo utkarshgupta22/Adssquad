@@ -2755,3 +2755,11 @@ div.single-blog {
     display: flex; 
     justify-content: space-between;
   }
+
+ .card .brd a{
+    display: none !important;
+  }
+
+  .art-bd{
+    padding-bottom: 20% !important;
+  }
