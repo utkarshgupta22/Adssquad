@@ -61,6 +61,22 @@
         font-size: 160%;
     }
 }
+@media(min-width : 600px) and (max-width : 700px){
+    .line-1{
+        font-size: 145%;
+    }
+    .caps{
+        font-size: 30px;
+    }
+    .head3{
+        font-size: 125%;
+    }
+}
+@media(max-width : 600px){
+    .head3{
+        font-size: 110%;
+    }
+}
 
 @media(max-width:875px){
     .cont{
