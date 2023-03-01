@@ -288,3 +288,28 @@ justify-content: space-evenly;
         width: 70%;
     }
 }
+
+@media(max-width:1270px){
+    .QR{
+        justify-content: space-evenly;
+    }
+}
+
+@media(max-width:890px){
+    .QR{
+        flex-direction: column;
+        align-items: center;
+    }
+    .paymentSection{
+        margin-top: 2rem !important;
+        width: 60%;
+        align-items: center;
+    }
+}
+
+@media(max-width:700px){
+    .QRimg{
+        width: 60% !important;
+    }
+    
+}

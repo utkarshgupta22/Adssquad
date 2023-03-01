@@ -2736,7 +2736,6 @@ div.single-blog {
   
   #Bank tr:nth-child(even){background-color: #f2f2f2;}
   
-  #Bank tr:hover {background-color: #ddd;}
   
   #Bank th {
     padding-top: 12px;
@@ -2744,4 +2743,15 @@ div.single-blog {
     text-align: left;
     background-color: #04AA6D;
     color: white;
+  }
+
+  .paymentSection{
+    width: 50%;
+    border-bottom: 30px;
+  }
+
+  .QR{
+    margin-top: 30px;
+    display: flex; 
+    justify-content: space-between;
   }
