@@ -1755,15 +1755,7 @@ ul {
     text-align: center
 }
 
-#footer::before {
-    position: absolute;
-    left: 0;
-    top: 0;
-    content: "";
-    background: #fff;
-    border-bottom: 26px solid;
-    border-left: 30px solid transparent
-}
+
 
 #footer .footer-top {
     padding: 60px 0
